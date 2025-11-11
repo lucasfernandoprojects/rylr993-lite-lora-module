@@ -7,8 +7,8 @@ I've recently posted a tutorial about this project on YouTube. You can watch it 
 This project demonstrates how two Arduino boards can communicate wirelessly using LoRa, specifically with the [RYLR993 Lite module](https://reyax.com/products/RYLR993_Lite).
 
 You’ll learn how to send and receive simple commands between two devices:
-+**Device 1**: Sends a signal when a button is pressed and receives a command to toggle its LED.
-+**Device 2**: Does the opposite - when you press its button, it sends a signal to toggle the LED on Device 1.
++ **Device 1**: Sends a signal when a button is pressed and receives a command to toggle its LED.
++ **Device 2**: Does the opposite - when you press its button, it sends a signal to toggle the LED on Device 1.
 
 It’s a great beginner-friendly project to understand how LoRa communication works, how to use the Serial interface for AT commands, and how to create a simple wireless network between microcontrollers.
 
@@ -16,11 +16,11 @@ It’s a great beginner-friendly project to understand how LoRa communication wo
 
 ### 🧠WHAT YOU'LL LEARN
 
-+How LoRa works and what makes it ideal for long-distance, low-power communication.
-+How to wire and configure RYLR993 Lite modules.
-+How to send and receive data using AT commands.
-+How to program Arduino boards to communicate wirelessly.
-+How to debug data using the Serial Monitor.
++ How LoRa works and what makes it ideal for long-distance, low-power communication.
++ How to wire and configure RYLR993 Lite modules.
++ How to send and receive data using AT commands.
++ How to program Arduino boards to communicate wirelessly.
++ How to debug data using the Serial Monitor.
 
 If you’re new to LoRa, this project gives you both the theory and the hands-on practice you need to get started confidently.
 
@@ -72,9 +72,9 @@ The first is all about the [Serial Monitor](https://www.youtube.com/watch?v=yYrZ
 ### 🧩HOW THE LORA MODULE WORKS
 
 Let’s take a closer look at the RYLR993 Lite module. It has five pins: VCC, GND, RX, TX, and RESET.
-+**VCC** and **GND** are the power supply pins. The module runs on 3 to 3.6 volts, so never connect it directly to a 5V pin (you’ll fry it instantly).
-+**TX** and **RX** are the serial communication pins, used to exchange data with your Arduino. The RX pin accepts only up to 3.6V, so you’ll need a voltage divider to bring the Arduino’s 5V signal down safely.
-+The **RESET** pin can reset the module, but for this project, we won’t use it (you can leave it unconnected).
++ **VCC** and **GND** are the power supply pins. The module runs on 3 to 3.6 volts, so never connect it directly to a 5V pin (you’ll fry it instantly).
++ **TX** and **RX** are the serial communication pins, used to exchange data with your Arduino. The RX pin accepts only up to 3.6V, so you’ll need a voltage divider to bring the Arduino’s 5V signal down safely.
++ The **RESET** pin can reset the module, but for this project, we won’t use it (you can leave it unconnected).
 
 >[!WARNING]
 >One more thing: when transmitting, the module can draw up to **140 milliamps**. That’s a bit high for the Arduino’s built-in regulator, but since our demo is simple, we’ll power it directly from the Arduino’s 3.3V pin. For bigger projects, though, use an external 3.3V power source.
