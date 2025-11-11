@@ -3,7 +3,7 @@ I've recently posted a tutorial about this project on YouTube. You can watch it 
 
 ![The project over a table.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-1.jpg)
 
-### 🚀OVERVIEW
+## 🚀OVERVIEW
 This project demonstrates how two Arduino boards can communicate wirelessly using LoRa, specifically with the [RYLR993 Lite module](https://reyax.com/products/RYLR993_Lite).
 
 You’ll learn how to send and receive simple commands between two devices:
@@ -17,7 +17,7 @@ It’s a great beginner-friendly project to understand how LoRa communication wo
     <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-3.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
-### 🧠WHAT YOU'LL LEARN
+## 🧠WHAT YOU'LL LEARN
 
 + How LoRa works and what makes it ideal for long-distance, low-power communication.
 + How to wire and configure RYLR993 Lite modules.
@@ -27,7 +27,7 @@ It’s a great beginner-friendly project to understand how LoRa communication wo
 
 If you’re new to LoRa, this project gives you both the theory and the hands-on practice you need to get started confidently.
 
-### 🧰LIST OF MATERIALS
+## 🧰LIST OF MATERIALS
 
 | Item            | Quantity |
 |--------------------------|-------------|
@@ -42,7 +42,7 @@ If you’re new to LoRa, this project gives you both the theory and the hands-on
 
 ![Materials for the project.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-4.jpg)
 
-### ⚙️WIRING
+## ⚙️WIRING
 
 Follow the schematics below to assemble all components.
 
@@ -57,7 +57,7 @@ In the end, you'll have something like this:
     <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-10.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 
-### 💡HOW THE PROJECT WORKS
+## 💡HOW THE PROJECT WORKS
 
 Each module has its own address and shares the same network ID and frequency band.
 
@@ -91,7 +91,7 @@ If you are having trouble understanding how to use the Serial Monitor or code Ar
 
 The first is all about the [Serial Monitor](https://www.youtube.com/watch?v=yYrZRBsFJ3s&t=32s) and how to use it in your projects. The second is a complete tutorial about [Arduino programming](https://www.youtube.com/watch?v=SirbF6jwFdc&t=42s). Check them out to level up your skills.
 
-### 🧩HOW THE LORA MODULE WORKS
+## 🧩HOW THE LORA MODULE WORKS
 
 Let’s take a closer look at the RYLR993 Lite module. It has five pins: VCC, GND, RX, TX, and RESET.
 + **VCC** and **GND** are the power supply pins. The module runs on 3 to 3.6 volts, so never connect it directly to a 5V pin (you’ll fry it instantly).
@@ -101,16 +101,19 @@ Let’s take a closer look at the RYLR993 Lite module. It has five pins: VCC, GN
 >[!WARNING]
 >One more thing: when transmitting, the module can draw up to **140 milliamps**. That’s a bit high for the Arduino’s built-in regulator, but since our demo is simple, we’ll power it directly from the Arduino’s 3.3V pin. For bigger projects, though, use an external 3.3V power source.
 
-### ❤️SPONSOR
+## ❤️SPONSOR
 
 I want to give a huge thank you to [Reyax](https://reyax.com/), who kindly provided the [RYLR993 Lite modules](https://reyax.com/products/RYLR993_Lite) for this tutorial.
 
 ![Reyax's website homepage.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-18.png)
-<br>
+</br>
+</br>
 ![Reyax's website products page](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-19.png)
-<br>
+</br>
+</br>
 ![Reyax's website LoRa modules page](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-20.png)
-<br>
+</br>
+</br>
 ![RYLR993 Lite module on Reyax's website.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-21.png)
 
 If you haven’t heard of them yet, Reyax is a global provider of IoT communication solutions. They’ve been around for over a decade and offer a full lineup of products: LoRa, Bluetooth, Wi-Fi, Cellular, GNSS, and more.
@@ -121,7 +124,7 @@ With distributors in every continent, it’s really easy to get your hands on th
 
 Thanks again to Reyax for sponsoring this project and helping make STEM education accessible to everyone.
 
-### 🧭WHAT'S NEXT
+## 🧭WHAT'S NEXT
 
 Now that you’ve seen how to make two LoRa modules communicate, you can expand this idea to:
 + Build a remote weather station
