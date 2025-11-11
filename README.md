@@ -114,10 +114,10 @@ With distributors in every continent, it’s really easy to get your hands on th
 Thanks again to Reyax for sponsoring this project and helping make STEM education accessible to everyone.
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-18.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-19.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-20.jpg" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-21.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-18.png" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-19.png" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-20.png" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-21.png" width="400" height="250" style="margin: 10px;">
 </div>
 
 ### 🧭WHAT'S NEXT
