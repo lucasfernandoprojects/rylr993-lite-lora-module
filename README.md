@@ -16,7 +16,7 @@ It’s a great beginner-friendly project to understand how LoRa communication wo
     <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-2.jpg" width="400" height="250" style="margin: 10px;">
     <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-3.jpg" width="400" height="250" style="margin: 10px;">
 </div>
-</br>
+
 ### 🧠WHAT YOU'LL LEARN
 
 + How LoRa works and what makes it ideal for long-distance, low-power communication.
