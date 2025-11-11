@@ -17,7 +17,6 @@ It’s a great beginner-friendly project to understand how LoRa communication wo
     <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-3.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 </br>
-
 ### 🧠WHAT YOU'LL LEARN
 
 + How LoRa works and what makes it ideal for long-distance, low-power communication.
@@ -58,7 +57,6 @@ In the end, you'll have something like this:
     <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-10.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 </br>
-
 ### 💡HOW THE PROJECT WORKS
 
 Each module has its own address and shares the same network ID and frequency band.
@@ -72,12 +70,11 @@ The same happens when you press the button on the second board. The module sends
 This system creates a bidirectional communication channel, a small but powerful demonstration of how LoRa can be used for remote control or telemetry projects.
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-11.jpg" width="266" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-12.jpg" width="266" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-13.jpg" width="266" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-11.png" width="266" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-12.png" width="266" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-13.png" width="266" height="250" style="margin: 10px;">
 </div>
 </br>
-
 After uploading the sketches to your boards, you'll get this:
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -87,7 +84,6 @@ After uploading the sketches to your boards, you'll get this:
     <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-17.jpg" width="400" height="250" style="margin: 10px;">
 </div>
 </br>
-
 If you are having trouble understanding how to use the Serial Monitor or code Arduino programs, I have two tutorials on my channel that will help you with that.
 
 The first is all about the [Serial Monitor](https://www.youtube.com/watch?v=yYrZRBsFJ3s&t=32s) and how to use it in your projects. The second is a complete tutorial about [Arduino programming](https://www.youtube.com/watch?v=SirbF6jwFdc&t=42s). Check them out to level up your skills.
