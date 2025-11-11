@@ -105,6 +105,14 @@ Let’s take a closer look at the RYLR993 Lite module. It has five pins: VCC, GN
 
 I want to give a huge thank you to [Reyax](https://reyax.com/), who kindly provided the [RYLR993 Lite modules](https://reyax.com/products/RYLR993_Lite) for this tutorial.
 
+![Reyax's website homepage.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-18.png)
+
+![Reyax's website products page](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-19.png)
+
+![Reyax's website LoRa modules page](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-20.png)
+
+![RYLR993 Lite module on Reyax's website.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-21.png)
+
 If you haven’t heard of them yet, Reyax is a global provider of IoT communication solutions. They’ve been around for over a decade and offer a full lineup of products: LoRa, Bluetooth, Wi-Fi, Cellular, GNSS, and more.
 
 Their modules are known for being high quality, easy to use, and affordable, which makes them perfect for DIY makers, educators, and even professionals.
@@ -112,13 +120,6 @@ Their modules are known for being high quality, easy to use, and affordable, whi
 With distributors in every continent, it’s really easy to get your hands on their products. So if you’re working on any kind of IoT project that requires wireless communication, definitely check out Reyax.
 
 Thanks again to Reyax for sponsoring this project and helping make STEM education accessible to everyone.
-
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-18.png" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-19.png" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-20.png" width="400" height="250" style="margin: 10px;">
-    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-21.png" width="400" height="250" style="margin: 10px;">
-</div>
 
 ### 🧭WHAT'S NEXT
 
