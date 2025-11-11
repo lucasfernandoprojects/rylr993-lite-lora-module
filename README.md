@@ -1,7 +1,7 @@
 # RYLR993 Lite LoRa Module with Arduino
 I've recently posted a tutorial about this project on YouTube. You can watch it [here](https://www.youtube.com/).
 
-[ADDING A PHOTO OF THE PROJECT]
+![The project over a table.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-1.jpg)
 
 ### 🚀OVERVIEW
 This project demonstrates how two Arduino boards can communicate wirelessly using LoRa, specifically with the [RYLR993 Lite module](https://reyax.com/products/RYLR993_Lite).
@@ -12,7 +12,11 @@ You’ll learn how to send and receive simple commands between two devices:
 
 It’s a great beginner-friendly project to understand how LoRa communication works, how to use the Serial interface for AT commands, and how to create a simple wireless network between microcontrollers.
 
-[ADD PHOTOS OF THE PROJECT WORKING]
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-2.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-3.jpg" width="400" height="250" style="margin: 10px;">
+</div>
+</br>
 
 ### 🧠WHAT YOU'LL LEARN
 
@@ -37,15 +41,23 @@ If you’re new to LoRa, this project gives you both the theory and the hands-on
 | Breadboard                                    | Several |
 | Jumper wires                                  | Several |
 
+![Materials for the project.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-4.jpg)
+
 ### ⚙️WIRING
 
 Follow the schematics below to assemble all components.
 
-[ADD THE SCHEMATICS]
+![Project's diagram](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-5.jpg)
 
 In the end, you'll have something like this:
 
-[ADD PHOTOS OF THE PROJECT]
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-6.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-7.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-9.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-10.jpg" width="400" height="250" style="margin: 10px;">
+</div>
+</br>
 
 ### 💡HOW THE PROJECT WORKS
 
@@ -59,11 +71,22 @@ The same happens when you press the button on the second board. The module sends
 
 This system creates a bidirectional communication channel, a small but powerful demonstration of how LoRa can be used for remote control or telemetry projects.
 
-[ADD DRAWINGS THAT EXEMPLIFY THIS]
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-11.jpg" width="266" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-12.jpg" width="266" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-13.jpg" width="266" height="250" style="margin: 10px;">
+</div>
+</br>
 
 After uploading the sketches to your boards, you'll get this:
 
-[ADD PHOTOS OF YOU TESTING THE PROJECT]
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-14.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-15.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-16.jpg" width="400" height="250" style="margin: 10px;">
+    <img src="https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-17.jpg" width="400" height="250" style="margin: 10px;">
+</div>
+</br>
 
 If you are having trouble understanding how to use the Serial Monitor or code Arduino programs, I have two tutorials on my channel that will help you with that.
 
