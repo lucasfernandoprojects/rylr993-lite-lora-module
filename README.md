@@ -106,11 +106,11 @@ Let’s take a closer look at the RYLR993 Lite module. It has five pins: VCC, GN
 I want to give a huge thank you to [Reyax](https://reyax.com/), who kindly provided the [RYLR993 Lite modules](https://reyax.com/products/RYLR993_Lite) for this tutorial.
 
 ![Reyax's website homepage.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-18.png)
-
+<br>
 ![Reyax's website products page](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-19.png)
-
+<br>
 ![Reyax's website LoRa modules page](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-20.png)
-
+<br>
 ![RYLR993 Lite module on Reyax's website.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-21.png)
 
 If you haven’t heard of them yet, Reyax is a global provider of IoT communication solutions. They’ve been around for over a decade and offer a full lineup of products: LoRa, Bluetooth, Wi-Fi, Cellular, GNSS, and more.
