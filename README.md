@@ -46,7 +46,7 @@ If you’re new to LoRa, this project gives you both the theory and the hands-on
 
 Follow the schematics below to assemble all components.
 
-![Project's diagram](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-5.jpg)
+![Project's diagram](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-5.png)
 
 In the end, you'll have something like this:
 
