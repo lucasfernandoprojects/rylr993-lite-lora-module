@@ -94,8 +94,8 @@ Thanks again to Reyax for sponsoring this project and helping make STEM educatio
 ### 🧭WHAT'S NEXT
 
 Now that you’ve seen how to make two LoRa modules communicate, you can expand this idea to:
-+Build a remote weather station
-+Create a long-range sensor network
++ Build a remote weather station
++ Create a long-range sensor network
 + Make your own wireless control system
 
 The possibilities are endless!
