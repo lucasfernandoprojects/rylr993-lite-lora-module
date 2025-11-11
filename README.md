@@ -70,13 +70,13 @@ The same happens when you press the button on the second board. The module sends
 This system creates a bidirectional communication channel, a small but powerful demonstration of how LoRa can be used for remote control or telemetry projects.
 
 Two buttons control two LEDs.
-![The project over a table.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-11.jpg)
+![First drawing - two controls and two LEDs.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-11.png)
 
-Press button 1 to turn on or off the LED connected in the second board.
-![The project over a table.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-12.jpg)
+Press the first button to control the second LED.
+![Second drawing - press the first button to control the second LED.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-12.png)
 
-Press button 2 to turn on or off the LED connected in the first board.
-![The project over a table.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-13.jpg)
+Press the second button to control the first LED.
+![Third drawing -  press the second button to control the first LED.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-13.png)
 
 After uploading the sketches to your boards, you'll get this:
 
