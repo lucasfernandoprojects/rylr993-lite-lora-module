@@ -1,5 +1,5 @@
 # RYLR993 Lite LoRa Module with Arduino
-I've recently posted a tutorial about this project on YouTube. You can watch it [here](https://www.youtube.com/).
+I've recently posted a tutorial about this project on YouTube. You can watch it [here](https://www.youtube.com/watch?v=w7p6iTCCfqA).
 
 ![The project over a table.](https://github.com/lucasfernandoprojects/rylr993-lite-lora-module/blob/main/images/image-1.jpg)
 
